@@ -5,7 +5,6 @@ This is a beginner-level AI chatbot that provides skincare advice using semantic
 ## Features
 - Answer skincare questions like “I have dry skin” or “How to reduce acne?”
 - Works fully in Google Colab
-- Beginner-friendly AI chatbot for interview projects
 
 ## How to Use
 1. Open the notebook `Skincare_Advisor_Chatbot.ipynb` in Google Colab.
